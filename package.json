@@ -1,0 +1,21 @@
+{
+    "name": "symmetric-dark",
+    "displayName": "Symmetric Dark",
+    "description": "Dark theme that balances between a pleasant diversity of colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Symmetric Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Symmetric Dark-color-theme.json"
+            }
+        ]
+    }
+}
