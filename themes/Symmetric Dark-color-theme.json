@@ -3,6 +3,15 @@
 	"type": "dark",
 	"$schema": "vscode://schemas/color-theme",
 	"colors": {
+		// bracket colorization
+		"editorBracketHighlight.foreground1": "#E7F9FD",
+		"editorBracketHighlight.foreground2": "#15DCFF",
+		"editorBracketHighlight.foreground3": "#FF7598",
+		"editorBracketHighlight.foreground4": "#FFF78C",
+		"editorBracketHighlight.foreground5": "#8CFFE2",
+		"editorBracketHighlight.foreground6": "#FA8D3E",
+		// "editorBracketHighlight.unexpectedBracket.foreground": "#db6165",
+		
 		"activityBar.background": "#333842",
 		"activityBar.foreground": "#d7dae0",
 		"activityBarBadge.background": "#528bff",
