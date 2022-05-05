@@ -6,10 +6,10 @@
 		// bracket colorization
 		"editorBracketHighlight.foreground1": "#E7F9FD",
 		"editorBracketHighlight.foreground2": "#FA8D3E",
-		"editorBracketHighlight.foreground3": "#15DCFF",
-		"editorBracketHighlight.foreground4": "#FF7598",
-		"editorBracketHighlight.foreground5": "#FFF78C",
-		"editorBracketHighlight.foreground6": "#8CFFE2",
+		"editorBracketHighlight.foreground3": "#FF7598",
+		"editorBracketHighlight.foreground4": "#15DCFF",
+		"editorBracketHighlight.foreground5": "#8CFFE2",
+		"editorBracketHighlight.foreground6": "#FFF78C",
 		// "editorBracketHighlight.unexpectedBracket.foreground": "#db6165",
 		
 		"activityBar.background": "#333842",
