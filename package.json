@@ -17,7 +17,7 @@
             {
                 "label": "Symmetric Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Symmetric Dark-color-theme.json"
+                "path": "./themes/Symmetric-Dark-color-theme.json"
             }
         ]
     }
