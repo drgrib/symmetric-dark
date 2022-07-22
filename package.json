@@ -6,6 +6,7 @@
     "engines": {
         "vscode": "^1.58.0"
     },
+    "publisher": "ChrisRedford",
     "repository": "https://github.com/drgrib/symmetric-dark",
     "icon": "symmetric-dark-icon.png",
     "categories": [
