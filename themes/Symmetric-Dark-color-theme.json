@@ -12,6 +12,8 @@
 		"editorBracketHighlight.foreground6": "#FFF78C",
 		// "editorBracketHighlight.unexpectedBracket.foreground": "#db6165",
 		// match highlight candidates
+		// "editor.findMatchHighlightBackground": "#86420299",
+		// "editor.findMatchHighlightBackground": "#cfc100b8",
 		// "editor.findMatchHighlightBackground": "#91efff92",
 		// "editor.findMatchHighlightBackground": "#95eefd92",
 		// "editor.findMatchHighlightBackground": "#95fded92",
