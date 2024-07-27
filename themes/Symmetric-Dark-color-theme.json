@@ -21,6 +21,7 @@
 		// "editor.findMatchHighlightBackground": "#95fdad7a",
 		// "editor.findMatchHighlightBackground": "#95cefd7a",
 		// "editor.findMatchHighlightBackground": "#84fb967a",
+		// "editor.findMatchHighlightBackground": "#fff7054d", // more compatible with red text but loses quick visibility
 		"editor.findMatchHighlightBackground": "#ebfb847a",
 		"activityBar.background": "#333842",
 		"activityBar.foreground": "#d7dae0",
